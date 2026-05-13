@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/admin_nav_graph"
+    app:startDestination="@id/adminDashboardFragment">
+
+    <fragment
+        android:id="@+id/adminDashboardFragment"
+        android:name="com.kalavidarabalaga.ui.admin.AdminDashboardFragment"
+        android:label="Dashboard" />
+
+    <fragment
+        android:id="@+id/adminTroupeListFragment"
+        android:name="com.kalavidarabalaga.ui.admin.AdminTroupeListFragment"
+        android:label="Troupes" />
+
+</navigation>

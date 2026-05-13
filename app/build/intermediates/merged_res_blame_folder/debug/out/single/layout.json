@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-54:/layout/item_shimmer_troupe.xml",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/item_shimmer_troupe.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-54:/layout/fragment_home.xml",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-54:/layout/item_gallery_image.xml",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/item_gallery_image.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-54:/layout/fragment_search.xml",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-54:/layout/item_troupe_card.xml",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/item_troupe_card.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-54:/layout/activity_troupe_detail.xml",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/activity_troupe_detail.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-54:/layout/activity_main.xml",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/activity_main.xml"
+    }
+]

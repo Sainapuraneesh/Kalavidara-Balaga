@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="troupe_card_image_height">180dp</dimen>
+    <dimen name="gallery_item_min_height">120dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-55:/layout/fragment_add_edit_troupe.xml",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/fragment_add_edit_troupe.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-mergeDebugResources-55:\\layout\\fragment_search.xml",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-55:/layout/activity_login.xml",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/activity_login.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-mergeDebugResources-55:\\layout\\activity_login.xml",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-55:/layout/activity_role_selection.xml",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/activity_role_selection.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-mergeDebugResources-55:\\layout\\activity_troupe_detail.xml",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\activity_troupe_detail.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-mergeDebugResources-55:\\layout\\activity_main.xml",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-55:/layout/fragment_my_troupe.xml",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/fragment_my_troupe.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-55:/layout/item_booking.xml",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/item_booking.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-mergeDebugResources-55:\\layout\\item_gallery_image.xml",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\item_gallery_image.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-mergeDebugResources-55:\\layout\\item_troupe_card.xml",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\item_troupe_card.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-55:/layout/dialog_booking_request.xml",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/dialog_booking_request.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-mergeDebugResources-55:\\layout\\item_shimmer_troupe.xml",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\item_shimmer_troupe.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-55:/layout/activity_admin.xml",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-55:/layout/fragment_admin_dashboard.xml",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/fragment_admin_dashboard.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-mergeDebugResources-55:\\layout\\fragment_home.xml",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-55:/layout/fragment_admin_troupe_list.xml",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/fragment_admin_troupe_list.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-mergeDebugResources-55:/layout/item_admin_troupe.xml",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/item_admin_troupe.xml"
+    }
+]

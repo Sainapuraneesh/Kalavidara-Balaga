@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Kalavidara Balaga</string>
+    <string name="app_tagline">Karnataka\'s Folk Artist Hub</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+
+    <!-- Home Fragment -->
+    <string name="home_title">Featured Troupes</string>
+    <string name="home_subtitle">Discover Karnataka\'s finest folk artists</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+    <string name="no_troupes">No troupes available right now.</string>
+
+    <!-- Search Fragment -->
+    <string name="search_title">Find a Troupe</string>
+    <string name="filter_district">Filter by District</string>
+    <string name="filter_art_form">Filter by Art Form</string>
+    <string name="hint_select_district">Select District</string>
+    <string name="hint_select_art_form">Select Art Form</string>
+    <string name="btn_search">Search</string>
+    <string name="btn_clear">Clear Filters</string>
+    <string name="no_results">No troupes found for the selected filters.</string>
+    <string name="all_districts">All Districts</string>
+    <string name="all_art_forms">All Art Forms</string>
+
+    <!-- Troupe Detail -->
+    <string name="label_contact">Lead Contact</string>
+    <string name="label_district">District</string>
+    <string name="label_art_form">Art Form</string>
+    <string name="label_equipment">Equipment</string>
+    <string name="label_gallery">Portfolio Gallery</string>
+    <string name="label_videos">Performance Videos</string>
+    <string name="label_service_area">Service Area</string>
+    <string name="btn_book_call">Book / Call Now</string>
+    <string name="btn_call">Call Troupe</string>
+    <string name="no_gallery">No gallery images available.</string>
+    <string name="no_equipment">No equipment details provided.</string>
+    <string name="no_videos">No video links available.</string>
+
+    <!-- Auth -->
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="login_subtitle">Sign in to explore Karnataka\'s folk artists</string>
+    <string name="logout">Logout</string>
+    <string name="action_profile">My Account</string>
+    <string name="signing_in">Signing in…</string>
+    <string name="sign_in_failed">Sign-in failed. Please try again.</string>
+    <!-- Replace this with the actual Web Client ID from Firebase Console → Auth → Google → Web SDK configuration -->
+    <string name="default_web_client_id">62379490063-n9ctdbn82uel32t452l01h30cfppc0fq.apps.googleusercontent.com</string>
+
+    <!-- Errors -->
+    <string name="error_load_failed">Failed to load data. Please try again.</string>
+    <string name="error_no_internet">No internet connection. Showing cached data.</string>
+    <string name="error_troupe_not_found">Troupe not found.</string>
+</resources>

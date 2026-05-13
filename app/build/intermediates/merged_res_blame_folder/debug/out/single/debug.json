@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/layout_fragment_search.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/xml_network_security_config.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/layout_activity_main.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/drawable_placeholder_troupe.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/drawable/placeholder_troupe.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/drawable_ic_arrow_back_white.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/drawable/ic_arrow_back_white.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/layout_item_troupe_card.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/item_troupe_card.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/drawable_spinner_background.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/drawable/spinner_background.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/navigation_nav_graph.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/layout_item_shimmer_troupe.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/item_shimmer_troupe.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/layout_item_gallery_image.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/item_gallery_image.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/layout_fragment_home.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/drawable_gradient_overlay_bottom.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/drawable/gradient_overlay_bottom.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/layout_activity_troupe_detail.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/layout/activity_troupe_detail.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-merged_res-55:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-57:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    }
+]

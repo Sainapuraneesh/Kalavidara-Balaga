@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary folk art palette -->
+    <color name="kb_saffron">#FF6B00</color>
+    <color name="kb_saffron_light">#FF8C3A</color>
+    <color name="kb_deep_red">#8B0000</color>
+    <color name="kb_deep_red_dark">#5C0000</color>
+    <color name="kb_cream">#FDF5E6</color>
+    <color name="kb_gold">#D4A017</color>
+    <color name="kb_dark_text">#2C1810</color>
+
+    <!-- System colors -->
+    <color name="colorPrimary">@color/kb_saffron</color>
+    <color name="colorPrimaryDark">@color/kb_deep_red</color>
+    <color name="colorAccent">@color/kb_gold</color>
+
+    <!-- Utility -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_secondary">#6C757D</color>
+    <color name="divider">#E0D5C5</color>
+    <color name="shimmer_base">#E0D5C5</color>
+    <color name="shimmer_highlight">#F5EDD8</color>
+</resources>

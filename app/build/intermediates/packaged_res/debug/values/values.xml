@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="colorAccent">@color/kb_gold</color>
+    <color name="colorPrimary">@color/kb_saffron</color>
+    <color name="colorPrimaryDark">@color/kb_deep_red</color>
+    <color name="divider">#E0D5C5</color>
+    <color name="kb_cream">#FDF5E6</color>
+    <color name="kb_dark_text">#2C1810</color>
+    <color name="kb_deep_red">#8B0000</color>
+    <color name="kb_deep_red_dark">#5C0000</color>
+    <color name="kb_gold">#D4A017</color>
+    <color name="kb_saffron">#FF6B00</color>
+    <color name="kb_saffron_light">#FF8C3A</color>
+    <color name="shimmer_base">#E0D5C5</color>
+    <color name="shimmer_highlight">#F5EDD8</color>
+    <color name="text_secondary">#6C757D</color>
+    <color name="white">#FFFFFF</color>
+    <dimen name="card_corner_radius">12dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="card_margin">8dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="gallery_item_min_height">120dp</dimen>
+    <dimen name="screen_padding">16dp</dimen>
+    <dimen name="troupe_card_image_height">180dp</dimen>
+    <string name="all_art_forms">All Art Forms</string>
+    <string name="all_districts">All Districts</string>
+    <string name="app_name">Kalavidara Balaga</string>
+    <string name="app_tagline">Karnataka\'s Folk Artist Hub</string>
+    <string name="btn_book_call">Book / Call Now</string>
+    <string name="btn_call">Call Troupe</string>
+    <string name="btn_clear">Clear Filters</string>
+    <string name="btn_search">Search</string>
+    <string name="error_load_failed">Failed to load data. Please try again.</string>
+    <string name="error_no_internet">No internet connection. Showing cached data.</string>
+    <string name="error_troupe_not_found">Troupe not found.</string>
+    <string name="filter_art_form">Filter by Art Form</string>
+    <string name="filter_district">Filter by District</string>
+    <string name="gcm_defaultSenderId" translatable="false">62379490063</string>
+    <string name="google_api_key" translatable="false">AIzaSyAuZ1htnWGR-Ij3-bxWQ0fSQXwMz_6Ssss</string>
+    <string name="google_app_id" translatable="false">1:62379490063:android:b66a9bdb986234f7341c7a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAuZ1htnWGR-Ij3-bxWQ0fSQXwMz_6Ssss</string>
+    <string name="google_storage_bucket" translatable="false">mindmatrix-kalavidara-balaga.firebasestorage.app</string>
+    <string name="hint_select_art_form">Select Art Form</string>
+    <string name="hint_select_district">Select District</string>
+    <string name="home_subtitle">Discover Karnataka\'s finest folk artists</string>
+    <string name="home_title">Featured Troupes</string>
+    <string name="label_art_form">Art Form</string>
+    <string name="label_contact">Lead Contact</string>
+    <string name="label_district">District</string>
+    <string name="label_equipment">Equipment</string>
+    <string name="label_gallery">Portfolio Gallery</string>
+    <string name="label_service_area">Service Area</string>
+    <string name="label_videos">Performance Videos</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search</string>
+    <string name="no_equipment">No equipment details provided.</string>
+    <string name="no_gallery">No gallery images available.</string>
+    <string name="no_results">No troupes found for the selected filters.</string>
+    <string name="no_troupes">No troupes available right now.</string>
+    <string name="no_videos">No video links available.</string>
+    <string name="project_id" translatable="false">mindmatrix-kalavidara-balaga</string>
+    <string name="pull_to_refresh">Pull to refresh</string>
+    <string name="search_title">Find a Troupe</string>
+    <style name="KbChipStyle" parent="Widget.MaterialComponents.Chip.Action">
+        <item name="chipBackgroundColor">@color/kb_cream</item>
+        <item name="strokeColor">@color/kb_gold</item>
+        <item name="strokeWidth">1dp</item>
+        <item name="android:textColor">@color/kb_dark_text</item>
+    </style>
+    <style name="Theme.KalavidaraBalaga" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/kb_saffron</item>
+        <item name="colorPrimaryVariant">@color/kb_deep_red</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/kb_gold</item>
+        <item name="colorOnSecondary">@color/kb_dark_text</item>
+        <item name="android:colorBackground">@color/kb_cream</item>
+        <item name="android:statusBarColor">@color/kb_deep_red</item>
+        <item name="android:navigationBarColor">@color/kb_deep_red</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.KalavidaraBalaga.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

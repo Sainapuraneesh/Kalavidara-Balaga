@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/layout_item_booking.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/item_booking.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/layout_fragment_my_troupe.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/fragment_my_troupe.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\drawable_gradient_overlay_bottom.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\drawable\\gradient_overlay_bottom.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\layout_item_shimmer_troupe.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\item_shimmer_troupe.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/layout_item_admin_troupe.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/item_admin_troupe.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\layout_fragment_home.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/layout_activity_login.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/activity_login.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\layout_item_troupe_card.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\item_troupe_card.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/layout_activity_admin.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/activity_admin.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\layout_item_gallery_image.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\item_gallery_image.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/layout_fragment_add_edit_troupe.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/fragment_add_edit_troupe.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\drawable_ic_arrow_back_white.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\drawable\\ic_arrow_back_white.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/menu_admin_bottom_nav.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/menu/admin_bottom_nav.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\layout_fragment_search.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\fragment_search.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/layout_activity_role_selection.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/activity_role_selection.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/drawable_badge_pending.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/drawable/badge_pending.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\drawable_placeholder_troupe.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\drawable\\placeholder_troupe.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\drawable_spinner_background.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\drawable\\spinner_background.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/layout_fragment_admin_dashboard.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/fragment_admin_dashboard.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\layout_activity_main.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/menu_bottom_nav_menu_leader.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/menu/bottom_nav_menu_leader.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/drawable_badge_active.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/drawable/badge_active.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\layout_activity_troupe_detail.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\activity_troupe_detail.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\xml_network_security_config.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\menu_toolbar_menu.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\menu\\toolbar_menu.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/layout_dialog_booking_request.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/dialog_booking_request.xml"
+    },
+    {
+        "merged": "com.kalavidarabalaga.app-debug-56:/layout_fragment_admin_troupe_list.xml.flat",
+        "source": "com.kalavidarabalaga.app-main-58:/layout/fragment_admin_troupe_list.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\layout_activity_login.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-debug-56:\\drawable_ic_google.xml.flat",
+        "source": "D:\\.gradle\\daemon\\8.13\\com.kalavidarabalaga.app-main-58:\\drawable\\ic_google.xml"
+    }
+]
