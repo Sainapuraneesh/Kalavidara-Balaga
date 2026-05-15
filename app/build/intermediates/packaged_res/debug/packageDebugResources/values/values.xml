@@ -39,9 +39,9 @@
     <string name="filter_art_form">Filter by Art Form</string>
     <string name="filter_district">Filter by District</string>
     <string name="gcm_defaultSenderId" translatable="false">62379490063</string>
-    <string name="google_api_key" translatable="false">AIzaSyAuZ1htnWGR-Ij3-bxWQ0fSQXwMz_6Ssss</string>
-    <string name="google_app_id" translatable="false">1:62379490063:android:b66a9bdb986234f7341c7a</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAuZ1htnWGR-Ij3-bxWQ0fSQXwMz_6Ssss</string>
+    <string name="google_api_key" translatable="false">add your api key</string>
+    <string name="google_app_id" translatable="false">add your api id</string>
+    <string name="google_crash_reporting_api_key" translatable="false">add your api key</string>
     <string name="google_storage_bucket" translatable="false">mindmatrix-kalavidara-balaga.firebasestorage.app</string>
     <string name="hint_select_art_form">Select Art Form</string>
     <string name="hint_select_district">Select District</string>
